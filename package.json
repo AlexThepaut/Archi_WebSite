@@ -1,0 +1,23 @@
+{
+    "devDependencies": {
+        "browser-sync": "latest",
+        "del": "^6.0.0",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "latest",
+        "gulp-clean-css": "latest",
+        "gulp-concat": "latest",
+        "gulp-minify-css": "latest",
+        "gulp-notify": "latest",
+        "gulp-plumber": "latest",
+        "gulp-rename": "latest",
+        "gulp-sass": "latest",
+        "gulp-sourcemaps": "latest",
+        "gulp-uglify": "latest",
+        "node-sass": "^7.0.1"
+    },
+    "browserslist": [
+        "defaults",
+        "not IE 11",
+        "maintained node versions"
+    ]
+}
